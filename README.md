@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @JoaoGuilhermeBNascimento
 - 👀 I’m interested in a Job
 - 🌱 I’m currently learning ReactJS 
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me joaoguilhermebn@hotmail.com
 
 <!---
